@@ -1,5 +1,5 @@
 # go-movies-crud-api
-Begineer: A CRUD API Web server for movies
+Begineer: A CRUD API Web server for movies - GO Project #2
 
 learn important topics like :
 - gorilla mux
